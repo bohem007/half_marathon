@@ -1,0 +1,9 @@
+httpx==0.27.2
+langfuse
+streamlit
+python-dotenv
+pandas==1.5.3
+boto3
+botocore
+pycaret==3.3.2
+joblib
